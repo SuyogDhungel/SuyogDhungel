@@ -1,30 +1,32 @@
 # Suyog Dhungel
 
-**DHS Certified Trusted Tester | Web Accessibility Auditor**
+**Accessibility Auditor & Web Developer | DHS Certified Trusted Tester**
 
-I help teams identify accessibility barriers and give developers practical findings they can act on. My work combines manual screen-reader and keyboard testing with technical inspection and clear reporting.
+I help teams build websites and web applications, identify accessibility barriers, and turn findings into practical improvements. My work combines manual screen-reader and keyboard testing, technical inspection, clear reporting and development support.
 
-## Accessibility services
+## Services
 
-- Website audits against WCAG 2.2 Level AA, with agreed representative pages and complete user journeys.
+- Website and web application accessibility audits against WCAG 2.2 Level AA, with agreed representative pages and complete user journeys.
 - Manual NVDA screen-reader and keyboard testing, supported by automated checks.
-- Reports with reproduction steps, user impact, relevant WCAG criteria, priorities and remediation guidance.
-- Retesting after fixes.
-- Document and social-media accessibility reviews and accessible publishing training.
+- Reports with reproduction steps, user impact, WCAG references, priorities and remediation guidance.
+- Retesting after fixes and ongoing accessibility QA.
+- Web development and WordPress support, with accessibility considered throughout the work.
+- Application interface accessibility reviews and development support, with scope and environments agreed before starting.
+- Document accessibility reviews, accessible publishing guidance and team training.
 
 ## Certification
 
 **DHS Trusted Tester Certification - Trusted Tester for Web on Windows**  
 U.S. Department of Homeland Security | Issued 7 October 2026  
-Certification number: **TT-2710-09754**
+Credential ID: **TT-2710-09754**
 
-## Selected projects
+## Selected development projects
 
-- [Nepali Reader for NVDA](https://github.com/SuyogDhungel/nepaliReader): an assistive-technology project for reading legacy-font and broken text-based Nepali PDFs. See the repository for contributors, supported features and limitations.
-- [Model Disabled Society Rasuwa website](https://github.com/SuyogDhungel/model-disabled-society-rasuwa): see the repository for implementation and contribution details.
+- [NepaliReader](https://github.com/SuyogDhungel/nepaliReader): collaborative work on an NVDA add-on for legacy-font and broken Nepali PDF text. See the repository for contributors, scope and usage.
+- [Model Disabled Society Rasuwa website](https://github.com/SuyogDhungel/model-disabled-society-rasuwa): a React-based website project. See the repository for implementation details.
 
 ## Work with me
 
-Available for remote project-based audits, ongoing accessibility QA, agency subcontracting and retesting. Share your website, important user journeys, required testing environments and deadline to discuss a defined scope.
+Available remotely for accessibility audits, web development, ongoing QA, agency subcontracting and retesting. Share your website or application, key user journeys, testing environments and deadline so we can agree a practical scope.
 
-[Website](https://www.suyogdhungel.com.np/) | [Fiverr](https://www.fiverr.com/suyogdhungel) | [Upwork](https://www.upwork.com/freelancers/~017d0d0277e0d303e3)
+[Website](https://suyogdhungel.com.np) · [Fiverr](https://www.fiverr.com/suyogdhungel) · [Upwork](https://www.upwork.com/freelancers/~017d0d0277e0d303e3)
