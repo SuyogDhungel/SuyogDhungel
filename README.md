@@ -2,20 +2,20 @@
 
 **DHS Certified Trusted Tester | Web Accessibility Auditor**
 
-I help agencies, nonprofits and public-service teams identify accessibility barriers and give developers practical findings they can act on. Based in Nepal, I have audited more than 15 government and development-sector websites.
+I help teams identify accessibility barriers and give developers practical findings they can act on. My work combines manual screen-reader and keyboard testing with technical inspection and clear reporting.
 
 ## Accessibility services
 
-- Website audits against WCAG 2.2 Level AA, with agreed representative pages and user journeys.
+- Website audits against WCAG 2.2 Level AA, with agreed representative pages and complete user journeys.
 - Manual NVDA screen-reader and keyboard testing, supported by automated checks.
 - Reports with reproduction steps, user impact, relevant WCAG criteria, priorities and remediation guidance.
-- Retesting of reported issues after fixes.
-- Social-media accessibility reviews and accessible publishing training.
+- Retesting after fixes.
+- Document and social-media accessibility reviews and accessible publishing training.
 
 ## Certification
 
-**DHS Trusted Tester Certification — Trusted Tester for Web on Windows**  
-U.S. Department of Homeland Security · Issued 7 October 2026  
+**DHS Trusted Tester Certification - Trusted Tester for Web on Windows**  
+U.S. Department of Homeland Security | Issued 7 October 2026  
 Certification number: **TT-2710-09754**
 
 ## Selected projects
@@ -25,6 +25,6 @@ Certification number: **TT-2710-09754**
 
 ## Work with me
 
-Available for remote project-based audits, agency subcontracting and retesting. Share your website, important user journeys, required testing environments and deadline to discuss a defined scope.
+Available for remote project-based audits, ongoing accessibility QA, agency subcontracting and retesting. Share your website, important user journeys, required testing environments and deadline to discuss a defined scope.
 
-[Website](https://www.suyogdhungel.com.np/) · [Fiverr](https://www.fiverr.com/suyogdhungel)
+[Website](https://www.suyogdhungel.com.np/) | [Fiverr](https://www.fiverr.com/suyogdhungel) | [Upwork](https://www.upwork.com/freelancers/~017d0d0277e0d303e3)
