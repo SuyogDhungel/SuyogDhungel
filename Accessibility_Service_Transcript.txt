@@ -1,0 +1,35 @@
+WEBSITE ACCESSIBILITY
+Find barriers.
+Give your team clear next steps.
+Suyog Dhungel
+DHS Certified Trusted Tester
+
+MANUAL TESTING
+Keyboard and NVDA
+screen-reader testing
+Navigation • Forms • Interactive components
+Supported by axe, WAVE and technical inspection
+
+WHAT A FINDING EXPLAINS
+What fails. Who is affected.
+How to address it.
+Affected component • Reproduction steps
+User impact • WCAG reference • Priority
+
+ILLUSTRATIVE EXAMPLE
+A menu opens with a mouse.
+Can a keyboard user reach it?
+Document the observed behavior, explain the impact,
+and recommend predictable keyboard operation.
+
+PRACTICAL DELIVERABLES
+A scoped report and
+a plan for improvement
+Prioritized findings • Remediation guidance
+Retesting after fixes, when included
+
+START WITH A CLEAR SCOPE
+Share your website and
+important user journeys.
+Agree page templates, testing environments
+and deliverables before the audit starts.
